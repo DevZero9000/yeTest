@@ -8,6 +8,10 @@ Library\Bee\artifacts\movedfrom\UnityEditor.TestRunner.ref.dll_18191076894890228
 Library\Bee\artifacts\movedfrom\UnityEditor.UI.ref.dll_5519394401220875509.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.TestRunner.ref.dll_16527383234446630302.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.UI.ref.dll_648142665722821984.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_4155389797970379569.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_8292649122728983684.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_4554957114796874040.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_17339874780599560535.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_3598207454263915874.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_13541862475769371440.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_9202357667282004369.movedfrom
@@ -86,11 +90,5 @@ Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_103947593
 Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_18110011482334604968.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_6151365856542115012.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_3319841780346059782.movedfrom
-Library\Bee\artifacts\movedfrom\UnityEditor.Android.Extensions.dll_6227121764179740760.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.UWP.Extensions.dll_7332355867887527707.movedfrom
-Library\Bee\artifacts\movedfrom\UnityEditor.WebGL.Extensions.dll_7858093363510644352.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_13828821228937673072.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_3477177499963937796.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_13582784182250773431.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_2575273636820469493.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_15360191302623155988.movedfrom

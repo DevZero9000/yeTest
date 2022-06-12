@@ -7,6 +7,9 @@ TagManager:
   - ground
   - Ground
   - Coin
+  - trap
+  - spike
+  - Door
   layers:
   - Default
   - TransparentFX
@@ -16,9 +19,9 @@ TagManager:
   - UI
   - ground
   - Coin
-  - 
-  - 
-  - 
+  - trap
+  - Player
+  - Door
   - 
   - 
   - 
