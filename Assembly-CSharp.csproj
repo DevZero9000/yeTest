@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8303D3E5-4A1C-6290-6072-99167B8B9F36}</ProjectGuid>
+    <ProjectGuid>{DA12AFD9-911C-1761-2D30-EB0EE3674C36}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,9 +59,16 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Foggy Mountains Background\Demo\BackgroundHelper.cs" />
-    <Compile Include="Assets\playerController.cs" />
-    <Compile Include="Assets\playerScore.cs" />
+    <Compile Include="Assets\Scripts\cameraController.cs" />
+    <Compile Include="Assets\Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\playerController.cs" />
+    <Compile Include="Assets\soundController.cs" />
+    <Compile Include="Assets\Scripts\Health.cs" />
+    <Compile Include="Assets\Scripts\nextLevel.cs" />
+    <Compile Include="Assets\Scripts\trapDamage.cs" />
+    <Compile Include="Assets\Scripts\playerScore.cs" />
+    <Compile Include="Assets\Scripts\SceneLoader.cs" />
+    <Compile Include="Assets\Scripts\fallCollector.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

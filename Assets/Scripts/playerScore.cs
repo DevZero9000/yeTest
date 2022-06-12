@@ -7,11 +7,12 @@ using TMPro;
 public class playerScore : MonoBehaviour
 {
     private TextMeshProUGUI coinAmount;
-    private int score = 0;
-    void Awake()
+    public static int score = 0;
+    void Start()
     {
         coinAmount = GameObject.Find("coinAmount").GetComponent<TextMeshProUGUI>();
         coinAmount.text = "0";
+        score = 0;
     }
 
     // Update is called once per frame
